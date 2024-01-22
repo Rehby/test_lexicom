@@ -10,7 +10,6 @@ docker run -d --name fastapi-container -p 8000:8000 --link redis fastapi-redis
 
 2 задание:
 
-1 вариант
 
 UPDATE public.full_names fn
 SET status = sn.status
